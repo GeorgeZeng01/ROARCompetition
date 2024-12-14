@@ -25,18 +25,23 @@ Unofficial time over 10 runs:
 
 325.45s
 
-Fastest: 325.10s
+**Fastest: 325.10s
+
 Average: 325.395s
+
 Slowest: 325.65s
 
+
 Reliability:
-10 runs with no crashes
+10 runs with no crashes**
 
 CHANGES FROM PREVIOUS YEAR SOLUTION:
 
-NEW PURSUIT ALGORITHM:
-Weighs angle to the next 20 waypoints based inversely on the distance away
-Constant to counteract the weight slightly
 
-TUNED ThrottleController.py:
-Due to the new LateralController.py the throttle mu values were tuned again
+  NEW PURSUIT ALGORITHM:
+  Weighs angle to the next 20 waypoints based inversely on the distance away
+  Constant to counteract the weight slightly
+
+  
+  TUNED ThrottleController.py:
+  Due to the new LateralController.py the throttle mu values were tuned again
