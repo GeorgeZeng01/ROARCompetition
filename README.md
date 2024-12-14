@@ -6,14 +6,23 @@ Requires progress module and ROAR_PY
 
 Unofficial time over 10 runs:
 325.15s
+
 325.10s
+
 325.25s
+
 325.65s
+
 325.45s
+
 325.45s
+
 325.45s
+
 325.45s
+
 325.55s
+
 325.45s
 
 Fastest: 325.10s
