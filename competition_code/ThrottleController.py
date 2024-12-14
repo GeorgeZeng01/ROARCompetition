@@ -425,13 +425,17 @@ class ThrottleController:
             return self.max_speed
 
         if current_section == 2:
-            mu = 3.15
+            mu = 3.20
         if current_section == 3:
-            mu = 3.15
+            mu = 3.16#3.15
         if current_section == 6:
-            mu = 3.1
+            mu = 3.10#3.1
+        if current_section == 7:
+            mu = 2.5#3.1
+        if current_section == 8:
+            mu = 3.11#3.10
         if current_section == 9:
-            mu = 2.2
+            mu = 2.210#2.2
 
         target_speed = math.sqrt(mu * 9.81 * radius) * 3.6
 
