@@ -1,10 +1,13 @@
 ROAR_Competition
+
+
 FORKED from BHS Racing SUMMER 2024 AS BASE
+
 
 Requires progress module and ROAR_PY
 
 
-Unofficial time over 10 runs:
+_Unofficial time over 10 runs:_
 325.15s
 
 325.10s
@@ -25,15 +28,15 @@ Unofficial time over 10 runs:
 
 325.45s
 
-**Fastest: 325.10s
+**Fastest: 325.10s**
 
-Average: 325.395s
+**Average: 325.395s**
 
-Slowest: 325.65s
+**Slowest: 325.65s**
 
 
-Reliability:
-10 runs with no crashes**
+**Reliability:**
+**10 runs with no crashes**
 
 CHANGES FROM PREVIOUS YEAR SOLUTION:
 
