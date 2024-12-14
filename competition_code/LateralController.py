@@ -82,7 +82,7 @@ class LatController:
         )
 
         # Pure pursuit formula
-        steering_command = 1.5100137 * math.atan2(
+        steering_command = 1.51 * math.atan2(
             2.0 * 4.7 * math.sin(alpha) / distance_to_waypoint, 1.0
         )
 
